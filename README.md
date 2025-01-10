@@ -1,3 +1,2 @@
 # Azure-Databricks-Project
-![Snow flake flow diagram](https://github.com/user-attachments/assets/991a45f8-0cd3-4bbd-becf-2749172618a0)
-
+![Data Bricks flake flow diagram](https://github.com/ravik0205/Azure---Databricks-Project/blob/main/Documentation/Blank%20board.png)
