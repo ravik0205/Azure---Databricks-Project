@@ -38,7 +38,7 @@ The project leveraged **Azure Databricks** to implement a scalable, reliable, an
 - **Power BI**: Used for interactive reporting and dashboards.  
 
 ### **Architecture Overview**  
-![Architecture Diagram](https://github.com/ravik0205/Azure---Databricks-Project/blob/main/Documentation/Blank%20board.png) 
+![Architecture Diagram](https://github.com/ravik0205/Azure---Databricks-Project/blob/main/Documentation/azure%20databricks%20workflow.png) 
 
 ---
 
