@@ -59,6 +59,5 @@ The project leveraged **Azure Databricks** to implement a scalable, reliable, an
 ## 🤝 Connect and Collaborate  
 Feel free to raise issues or contribute enhancements to this project. Let’s work together to build robust data solutions! 
 ---
-
-## 🏷️ Tags  
+ 
 `Azure Databricks` `Data Engineering` `Data Lakehouse` `E-Commerce` `Delta Lake` `Power BI`  
