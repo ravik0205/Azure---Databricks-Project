@@ -49,13 +49,6 @@ The project leveraged **Azure Databricks** to implement a scalable, reliable, an
 
 ---
 
-## 💡 How to Use This Repository  
-1. **Code and Notebooks**: Explore the ETL processes and data transformation workflows in the `/notebooks` folder.  
-2. **Architecture Details**: Review architecture and Delta Lake configurations in the `/docs` folder.  
-3. **Reporting**: See sample Power BI dashboards and insights in the `/dashboards` folder.  
-
----
-
 ## 🤝 Connect and Collaborate  
 Feel free to raise issues or contribute enhancements to this project. Let’s work together to build robust data solutions! 
 ---
